@@ -18,7 +18,9 @@ jobs:
           cache: "pip"
 
       - name: Dependencies installeren
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
+          pip install -e .
 
       - name: Pytest uitvoeren
         run: pytest --tb=short
