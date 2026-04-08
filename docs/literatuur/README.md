@@ -82,3 +82,17 @@ docs/literatuur/
 | [Lin et al.](papers/lin_2020_doppelganger.md) | 2020 | DoppelGANger — GAN voor multivariate tijdreeksen |
 | [Yuan et al.](papers/yuan_2024_diffusion_ts.md) | 2024 | Diffusion-TS — diffusiemodel overtreft GANs |
 | [Tan et al.](papers/tan_2025_syntsbench.md) | 2025 | SynTSBench — benchmark met programmeerbare patronen |
+
+### 6. Feature-representatie voor mixed temporele data (10 papers)
+| Paper | Jaar | Kernbijdrage |
+|-------|------|-------------|
+| [Tipirneni & Reddy](papers/tipirneni_2022_strats.md) | 2022 | STraTS — triplet-representatie (t, feature, waarde) + CVE |
+| [Shukla & Marlin](papers/shukla_2021_mtan.md) | 2021 | mTAN — continue-tijdsattention voor onregelmatige data |
+| [Lee et al.](papers/lee_2026_star_set_transformer.md) | 2026 | STAR — attention biases voor temporele sets |
+| [Li et al.](papers/li_2020_behrt.md) | 2020 | BEHRT — BERT voor medische event-sequenties |
+| [Pang et al.](papers/pang_2021_cehr_bert.md) | 2021 | CEHR-BERT — artificiële tijd-tokens + multi-domein |
+| [Luetto et al.](papers/luetto_2023_unittab.md) | 2025 | UniTTab — twee-niveau Transformer voor heterogene data |
+| [Wang et al.](papers/wang_2020_mimic_extract.md) | 2020 | MIMIC-Extract — wide-format preprocessing pipeline |
+| [Gorishniy et al.](papers/gorishniy_2022_numerical_embeddings.md) | 2022 | Periodieke en piecewise-linear numerieke embeddings |
+| [Zhang et al.](papers/zhang_2020_sahp.md) | 2020 | SAHP — Self-Attentive Hawkes Process |
+| [Zuo et al.](papers/zuo_2020_transformer_hawkes.md) | 2020 | THP — Transformer Hawkes Process (duplicate, uitgebreide versie) |
